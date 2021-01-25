@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Summary on Exsentences</title>
+    <link>https://xvishaldongre.github.io/exsentences/summary/</link>
+    <description>Recent content in Summary on Exsentences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Made with ❤ by Vishal Dongre</copyright>
+    <lastBuildDate>Wed, 20 Jan 2021 19:57:50 +0530</lastBuildDate><atom:link href="https://xvishaldongre.github.io/exsentences/summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>index</title>
+      <link>https://xvishaldongre.github.io/exsentences/summary/index/</link>
+      <pubDate>Wed, 20 Jan 2021 19:57:50 +0530</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/exsentences/summary/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>search</title>
+      <link>https://xvishaldongre.github.io/exsentences/summary/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xvishaldongre.github.io/exsentences/summary/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
